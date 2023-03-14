@@ -65,6 +65,8 @@
 </table>
 
 Это MAVEN многомодульный проект. В каждой папке лежит свой POM.XML.
+Связи сервисов.
+<img src="./files/i1.png" style="width: 80%"></img>
 
 ## Rest API
 Идея Rest API базируется на выполнении CRUD запросов к сервису через запросы HTTP.
@@ -159,6 +161,8 @@
 - checkstyle 3.1.2,
 - REST
 - json
+- микросервисы
+- Nginx
 
 ## Список ПО:
 ### - git
